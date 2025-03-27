@@ -1,2 +1,3 @@
 # Pensamiento computacional
 
+Ejercicios resueltos
